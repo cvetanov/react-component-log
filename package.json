@@ -1,0 +1,25 @@
+{
+  "name": "react-component-log",
+  "version": "0.1.0",
+  "description": "HOC for easied debugging/learning of lifecycle methods for React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvetanov/react-component-log.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "lifecycle",
+    "debug"
+  ],
+  "author": "cvetanovgoce@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvetanov/react-component-log/issues"
+  },
+  "homepage": "https://github.com/cvetanov/react-component-log#readme"
+}
