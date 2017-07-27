@@ -1,6 +1,6 @@
 {
   "name": "react-component-log",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "HOC for easied debugging/learning of lifecycle methods for React components",
   "main": "build/index.js",
   "scripts": {
