@@ -1,2 +1,7 @@
+
 .babelrc
+.gitignore
+yarn.lock
 lib/
+
+.idea/
