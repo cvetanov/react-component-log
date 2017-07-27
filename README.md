@@ -1,6 +1,8 @@
 # react-component-log
 HOC for easier debugging/learning of lifecycle methods of React components
 
+Install with `npm i -D react-component-log` or `yarn add -D react-component-log`
+
 Note: The HOC acts as a shell around your actual component, it is NOT the component itself.
 Therefore, logging of internal component state is not implemented.
 
