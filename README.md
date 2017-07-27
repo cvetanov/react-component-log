@@ -16,7 +16,7 @@ the signature for other lifecycle methods is `function()`
 
 
 Boolean flags for configuring which lifecycle methods should be printed
-(defaults to true for every lifecycle method):
+(defaults to `true` for every lifecycle method):
 ```
 componentWillMount: boolean,
 componentDidMount: boolean,
